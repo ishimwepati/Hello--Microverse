@@ -68,14 +68,6 @@
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- LIVE DEMO -->
-
-LIVE DEMO
-
-> Link to Live Demo will be added soon.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 <!-- GETTING STARTED -->
 
 ## 💻 Getting Started <a name="getting-started"></a>
@@ -87,6 +79,15 @@ LIVE DEMO
 2. A Code Editor (Preferable Visual Studio)
 3. Internet Connection
 4. Git
+
+### Here are the steps :
+1. Go to github.com,
+2. Login into your github account,
+3. Click on this link to clone https://github.com/ishimwepati/Hello--Microverse.git and get a local copy,
+4. Your local copy is ready
+
+Note : check the prerequisites in order to run it very well.
+
 
 <!-- SETUP -->
 ### Setup
@@ -106,7 +107,8 @@ Install this project with the latest version of Git and a code editor.
 ### Usage
 
 To run the project, execute the following command:
-> N/A
+> Browser up your project folder location, once there type the following command using your terminal ### code . all the project files will open and VS.
+
 ### Deployment
 
 You can deploy this project using:
@@ -120,22 +122,12 @@ You can deploy this project using:
 
 > Mention all of the collaborators of this project.
 
-👤 **Anyars Yussif**
+👤 **Ishimwe Joseph**
 
 - GitHub: [@ishimwepati](https://https://github.com/ishimwepati)
 - Twitter: [@PatientMusafir1](https://twitter.com/PatientMusafir1)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/ishimwe-joseph-patient-0537b4155/)
 
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-## 🔭 Future Features <a name="future-features"></a>
-
-> Describe 1 - 3 features you will add to the project.
-
-- [ ] **Grades Management Portal**
-- [ ] **Fee Payment Portal**
-- [ ] **Student Assessment Portal**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
